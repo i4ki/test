@@ -1,5 +1,7 @@
 # Example of testing the fibonacci function
 
+import test
+
 # fib returns a function that generates fib numbers
 fn fib() {
     var a, b = 0, 1
